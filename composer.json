@@ -1,5 +1,5 @@
 {
-    "name": "bryanvilladev/epayco-php-8",
+    "name": "bryanvilladev/epayco-php",
     "type": "sdk",
     "description": "Epayco API client for PHP",
     "keywords": ["epayco", "api"],
